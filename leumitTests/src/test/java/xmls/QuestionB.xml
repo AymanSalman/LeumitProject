@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite thread-count="1" verbose="2" name="QuestionB" parallel="tests">
+
+    <listeners>
+        <listener class-name="leumit.auto.TestListener"/>
+    </listeners>
+
+
+    <test name="Guru - check footer Tests">
+        <classes>
+            <class name="tests.Guru99Tests.GuruTest"/>
+        </classes>
+    </test>
+
+
+</suite>

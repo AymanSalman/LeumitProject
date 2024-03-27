@@ -1,0 +1,74 @@
+[main] 2024-03-27 08:44:55 [DEBUG] Properties file 'TestProps.properties' found Successfully
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] Using Log4J2 as the default logging framework
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] -Dio.netty.leakDetection.level: simple
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] -Dio.netty.leakDetection.targetRecords: 4
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5c1a446b
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] -Dio.netty.noUnsafe: false
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] Java version: 11
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] sun.misc.Unsafe.theUnsafe: available
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] sun.misc.Unsafe.copyMemory: available
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] sun.misc.Unsafe.storeFence: available
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] java.nio.Buffer.address: available
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] java.nio.Bits.unaligned: available, true
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @58b1668d
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] java.nio.DirectByteBuffer.<init>(long, int): unavailable
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] sun.misc.Unsafe: available
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] maxDirectMemory: 4267704320 bytes (maybe)
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] -Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] -Dio.netty.bitMode: 64 (sun.arch.data.model)
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] Platform: Windows
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] -Dio.netty.maxDirectMemory: -1 bytes
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] -Dio.netty.uninitializedArrayAllocationThreshold: -1
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] java.nio.ByteBuffer.cleaner(): available
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] -Dio.netty.noPreferDirect: false
+[TestNG-tests-1] 2024-03-27 08:44:55 [DEBUG] org.jctools-core.MpscChunkedArrayQueue: available
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.eventLoopThreads: 8
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.noKeySetOptimization: false
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.selectorAutoRebuildThreshold: 512
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.allocator.numHeapArenas: 8
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.allocator.numDirectArenas: 8
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.allocator.pageSize: 8192
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.allocator.maxOrder: 9
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.allocator.chunkSize: 4194304
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.allocator.smallCacheSize: 256
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.allocator.normalCacheSize: 64
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.allocator.cacheTrimInterval: 8192
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.allocator.useCacheForAllThreads: false
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.allocator.type: pooled
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.threadLocalDirectBufferSize: 0
+[TestNG-tests-1] 2024-03-27 08:44:56 [DEBUG] -Dio.netty.maxThreadLocalCharBufferSize: 16384
+[Forwarding newSession on session null to remote] 2024-03-27 08:44:57 [DEBUG] -Dio.netty.processId: 4216 (auto-detected)
+[Forwarding newSession on session null to remote] 2024-03-27 08:44:57 [DEBUG] -Djava.net.preferIPv4Stack: false
+[Forwarding newSession on session null to remote] 2024-03-27 08:44:57 [DEBUG] -Djava.net.preferIPv6Addresses: false
+[Forwarding newSession on session null to remote] 2024-03-27 08:44:58 [DEBUG] Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+[Forwarding newSession on session null to remote] 2024-03-27 08:44:58 [DEBUG] Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+[Forwarding newSession on session null to remote] 2024-03-27 08:44:58 [DEBUG] -Dio.netty.machineId: f8:e4:3b:ff:fe:5a:02:5b (auto-detected)
+[AsyncHttpClient-1-2] 2024-03-27 08:44:58 [DEBUG] -Dio.netty.buffer.checkAccessible: true
+[AsyncHttpClient-1-2] 2024-03-27 08:44:58 [DEBUG] -Dio.netty.buffer.checkBounds: true
+[AsyncHttpClient-1-2] 2024-03-27 08:44:58 [DEBUG] Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@69b21375
+[AsyncHttpClient-1-2] 2024-03-27 08:44:58 [DEBUG] -Dio.netty.recycler.maxCapacityPerThread: 4096
+[AsyncHttpClient-1-2] 2024-03-27 08:44:58 [DEBUG] -Dio.netty.recycler.ratio: 8
+[AsyncHttpClient-1-2] 2024-03-27 08:44:58 [DEBUG] -Dio.netty.recycler.chunkSize: 32
+[AsyncHttpClient-1-2] 2024-03-27 08:44:58 [DEBUG] -Dio.netty.recycler.blocking: false
+[AsyncHttpClient-1-2] 2024-03-27 08:44:58 [DEBUG] -Dio.netty.recycler.batchFastThreadLocalOnly: true
+[AsyncHttpClient-1-2] 2024-03-27 08:45:00 [DEBUG] brotli4j not in the classpath; Brotli support will be unavailable.
+[TestNG-tests-1] 2024-03-27 08:45:00 [DEBUG] -Dio.netty.initialSeedUniquifier: 0xb8de201392f956dc
+[TestNG-tests-1] 2024-03-27 08:45:35 [INFO ] Starting test: W3SchoolsTests
+[TestNG-tests-1] 2024-03-27 08:45:35 [INFO ] Check if W3School 'HTML Tables' page is displayed
+[TestNG-tests-1] 2024-03-27 08:45:39 [INFO ] Get table value from header name 'Country' where company name is Island Trading
+[TestNG-tests-1] 2024-03-27 08:45:39 [INFO ] Get Column Index in W3School 'HTML Tables' page
+[TestNG-tests-1] 2024-03-27 08:45:39 [INFO ] Verify table value from header name 'Country' where company name is 'Island Trading', equals to UK
+[TestNG-tests-1] 2024-03-27 08:45:39 [INFO ] Get table value from header name 'Country' where company name is Island Trading
+[TestNG-tests-1] 2024-03-27 08:45:39 [INFO ] Get Column Index in W3School 'HTML Tables' page
+[TestNG-tests-1] 2024-03-27 08:45:39 [INFO ] Get table value from header name 'Country' where company name is 'Island Trading' BY XPATH
+[TestNG-tests-1] 2024-03-27 08:45:39 [INFO ] Get Column Index in W3School 'HTML Tables' page
+[main] 2024-03-27 08:45:48 [INFO ] kill chrome driver
