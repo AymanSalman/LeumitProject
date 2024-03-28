@@ -39,7 +39,7 @@ public class BaseSelenium {
         killBrowser();
     }
 
-    public void initAllElements(WebDriver driver){
+    public void initAllElements(WebDriver driver) {
         PageFactory.initElements(new AjaxElementLocatorFactory(driver, 8), this);
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(8));
     }
